@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image:url(/assets/form.png);
+    background-image:url(../assets/form.png);
     background-repeat: no-repeat;
     background-size: 110%;
     background-color:#ffffff;
@@ -149,7 +149,7 @@ header{
 @media(max-width:970px){
 
     body{
-        background-image:url(/assets/form.png);
+        background-image:url(../assets/form.png);
         background-size: 120%;
         background-attachment: fixed;
         background-position-y: 200px;
